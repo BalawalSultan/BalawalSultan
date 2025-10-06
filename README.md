@@ -1,1 +1,1 @@
-Hi, I’m [Balawal Sultan](https://github.com/BalawalSultan) a student at the University of Bolzano and a passionate web and software developer eager to learn and grow.
+Hi, I’m [Balawal Sultan](https://github.com/BalawalSultan) no longer a student at the University of Bolzano.
